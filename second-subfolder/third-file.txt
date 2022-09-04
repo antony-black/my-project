@@ -1,1 +1,2 @@
 Third text file
+Changed in the new-feature branch by VS CODE!
